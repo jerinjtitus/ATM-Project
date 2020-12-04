@@ -1,8 +1,8 @@
-22082019  10:45:08.703440:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+22082019  10:45:08.703440:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 22082019  10:45:24.773049:  login.req  :  A
 22082019  10:45:24.774030:  login.req.acc  :  A
 22082019  10:45:27.221305:  login.succ  :  A
-23082019  08:48:44.211826:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  08:48:44.211826:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  08:49:09.815457:  login.req  :  A
 23082019  08:49:09.816440:  login.req.acc  :  A
 23082019  08:49:12.722657:  login.succ  :  A
@@ -13,15 +13,15 @@
 23082019  09:04:36.341948:  withdrawal.req  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 23135
 23082019  09:04:36.343945:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 23135
 23082019  09:05:38.991644:  cashreq  :  MachineID: b'2145'	OTP: cdnwaoexrj
-23082019  09:06:48.374681:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  09:06:48.374681:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  09:06:48.376680:  cashreq  :  MachineID: b'2145'	OTP: adlygqegck
 23082019  09:07:35.516903:  login.req  :  A
 23082019  09:07:35.517901:  login.req.acc  :  A
 23082019  09:07:39.117127:  login.succ  :  A
 23082019  09:08:28.908663:  withdrawal.req  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 235626
 23082019  09:08:28.910644:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 235626
-23082019  09:20:44.174984:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
-23082019  09:22:58.745382:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  09:20:44.174984:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
+23082019  09:22:58.745382:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  09:23:11.004045:  login.req  :  A
 23082019  09:23:11.005041:  login.req.acc  :  A
 23082019  09:23:15.051128:  login.succ  :  A
@@ -35,7 +35,7 @@
 23082019  09:24:40.733334:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 23452
 23082019  09:24:50.363176:  withdrawal.req  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1235561
 23082019  09:24:50.365191:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1235561
-23082019  09:26:04.225618:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  09:26:04.225618:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  09:26:06.810748:  login.req  :  A
 23082019  09:26:06.811744:  login.req.acc  :  A
 23082019  09:26:08.211041:  login.succ  :  A
@@ -50,7 +50,7 @@
 23082019  09:26:56.874675:  login.succ.fail  :  A
 23082019  09:27:07.674689:  login.req  :  A
 23082019  09:27:07.675687:  login.req.acc  :  A
-23082019  09:27:20.626950:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  09:27:20.626950:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  09:27:22.739005:  login.req  :  A
 23082019  09:27:22.739990:  login.req.acc  :  A
 23082019  09:27:24.554292:  login.succ  :  A
@@ -67,7 +67,7 @@
 23082019  09:31:08.100234:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 21455
 23082019  09:31:40.642734:  withdrawal.req  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 21455
 23082019  09:31:40.644732:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 21455
-23082019  09:34:31.933115:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  09:34:31.933115:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  09:34:34.817814:  login.req  :  A
 23082019  09:34:34.818796:  login.req.acc  :  A
 23082019  09:34:36.417796:  login.succ  :  A
@@ -89,49 +89,49 @@
 23082019  09:59:06.337080:  deposit.succ  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 12341
 23082019  09:59:23.367023:  deposit.req  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 846645
 23082019  09:59:23.368020:  deposit.succ  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 846645
-23082019  10:04:33.407003:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
-23082019  10:07:06.345876:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
-23082019  10:08:16.027230:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  10:04:33.407003:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
+23082019  10:07:06.345876:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
+23082019  10:08:16.027230:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  10:08:23.468817:  login.req  :  A
 23082019  10:08:23.469800:  login.req.acc  :  A
 23082019  10:08:25.748637:  login.succ  :  A
-23082019  10:10:26.465201:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'6473'
-23082019  10:10:50.766432:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'6473'
-23082019  10:11:28.989758:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'6473'
-23082019  10:14:37.697860:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'6473'
-23082019  10:14:47.548948:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
-23082019  10:20:11.453504:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'6473'
+23082019  10:10:26.465201:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'6473'
+23082019  10:10:50.766432:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'6473'
+23082019  10:11:28.989758:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'6473'
+23082019  10:14:37.697860:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'6473'
+23082019  10:14:47.548948:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
+23082019  10:20:11.453504:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'6473'
 23082019  10:20:11.455504:  cashreq  :  MachineID: b'6473'	OTP: lpukiiealb
-23082019  10:28:16.042166:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  10:28:16.042166:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  10:28:19.459861:  login.req  :  A
 23082019  10:28:19.460843:  login.req.acc  :  A
 23082019  10:28:21.163612:  login.succ  :  A
 23082019  10:28:25.971303:  login.req  :  A
 23082019  10:28:25.972303:  login.req.acc  :  A
 23082019  10:28:27.315595:  login.succ  :  A
-23082019  10:31:33.778230:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  10:31:33.778230:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  10:31:43.387608:  login.req  :  A
 23082019  10:31:43.388589:  login.req.acc  :  A
-23082019  10:32:11.803814:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  10:32:11.803814:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  10:33:13.819057:  login.req  :  A
 23082019  10:33:13.821074:  login.req.acc  :  A MachineID:b'2145'
-23082019  10:34:02.090846:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  10:34:02.090846:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  10:34:20.050822:  login.req  :  A
 23082019  10:34:20.051806:  login.req.acc  :  A MachineID:b'2145'
-23082019  10:34:54.930115:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+23082019  10:34:54.930115:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 23082019  10:35:13.059168:  login.req  :  A
 23082019  10:35:13.060150:  login.req.acc  :  A MachineID: b'2145'
 23082019  10:35:39.098736:  login.succ  :  A MachineID: b'2145'
-23082019  10:35:58.682949:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'6473'
+23082019  10:35:58.682949:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'6473'
 23082019  10:36:09.842616:  login.req  :  A
 23082019  10:36:09.843615:  login.req.acc  :  A MachineID: b'6473'
-26082019  13:15:27.626518:  CONN.estb  :  Connection has been established | IP: 169.254.246.189 | MachineID  :  b'2145'
+26082019  13:15:27.626518:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 26082019  13:15:44.469903:  login.req  :  A
 26082019  13:15:44.471904:  login.req.acc  :  A  MachineID: b'2145'
 26082019  13:16:00.890525:  login.succ  :  A  MachineID: b'2145'
 26082019  13:16:48.894115:  withdrawal.req  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 100
 26082019  13:16:48.895115:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 100
-26082019  13:17:33.869435:  CONN.estb  :  Connection has been established | IP: 169.254.246.189 | MachineID  :  b'2145'
+26082019  13:17:33.869435:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 26082019  13:17:41.423122:  login.req  :  A
 26082019  13:17:41.425125:  login.req.acc  :  A  MachineID: b'2145'
 26082019  13:17:44.991090:  login.succ  :  A  MachineID: b'2145'
@@ -139,18 +139,18 @@
 26082019  13:17:52.239946:  deposit.succ  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 100
 26082019  13:18:05.510368:  deposit.req  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 100
 26082019  13:18:05.511369:  deposit.succ  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 100
-26082019  13:19:23.701722:  CONN.estb  :  Connection has been established | IP: 169.254.246.189 | MachineID  :  b'2145'
+26082019  13:19:23.701722:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 26082019  13:19:23.838644:  cashreq  :  MachineID: b'2145'	OTP: pygyfcqtwb
-27082019  08:25:43.944454:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2356'
-27082019  08:26:13.923452:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2356'
-27082019  08:27:49.409421:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2356'
+27082019  08:25:43.944454:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2356'
+27082019  08:26:13.923452:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2356'
+27082019  08:27:49.409421:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2356'
 27082019  08:27:49.411419:  cashreq  :  MachineID: b'2356'	OTP: vjfrzqgdsg
-27082019  08:29:33.598739:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2453'
-27082019  08:32:03.629597:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2467'
-27082019  08:33:01.775204:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2467'
-27082019  08:38:47.564180:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'9842'
+27082019  08:29:33.598739:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2453'
+27082019  08:32:03.629597:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2467'
+27082019  08:33:01.775204:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2467'
+27082019  08:38:47.564180:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'9842'
 27082019  08:38:47.566183:  cashreq  :  MachineID: b'9842'	OTP: hyhjwawrlm
-27082019  08:40:20.048884:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'9842'
+27082019  08:40:20.048884:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'9842'
 27082019  08:40:22.143876:  login.req  :  A
 27082019  08:40:22.144880:  login.req.acc  :  A  MachineID: b'9842'
 27082019  08:40:24.268980:  login.succ  :  A  MachineID: b'9842'
@@ -164,18 +164,18 @@
 27082019  08:41:05.277801:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 277462
 27082019  08:41:10.469417:  withdrawal.req  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 274624
 27082019  08:41:10.470419:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 274624
-28082019  09:57:04.085043:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'7423'
+28082019  09:57:04.085043:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'7423'
 28082019  09:57:04.107046:  cashreq  :  MachineID: b'7423'	OTP: celjgerzkx
-28082019  09:57:54.368340:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'7423'
+28082019  09:57:54.368340:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'7423'
 28082019  09:57:56.652292:  login.req  :  A
 28082019  09:57:56.653272:  login.req.acc  :  A  MachineID: b'7423'
 28082019  09:57:58.085692:  login.succ  :  A  MachineID: b'7423'
-28082019  10:12:18.788988:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'7452'
-28082019  10:14:40.145028:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'7323'
-28082019  10:26:55.777015:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
-28082019  10:29:09.212864:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'3778'
+28082019  10:12:18.788988:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'7452'
+28082019  10:14:40.145028:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'7323'
+28082019  10:26:55.777015:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
+28082019  10:29:09.212864:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'3778'
 28082019  10:29:09.214862:  cashreq  :  MachineID: b'3778'	OTP: vxngesiyfv
-30082019  10:31:34.908508:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+30082019  10:31:34.908508:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 30082019  10:31:40.781976:  login.req  :  A
 30082019  10:31:40.782944:  login.req.acc  :  A  MachineID: b'2145'
 30082019  10:31:42.550247:  login.succ  :  A  MachineID: b'2145'
@@ -185,21 +185,21 @@
 30082019  10:31:54.700468:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1567
 30082019  10:32:08.483046:  withdrawal.req  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 12356
 30082019  10:32:08.484062:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 12356
-30082019  10:38:56.911286:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+30082019  10:38:56.911286:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 30082019  10:39:21.691634:  login.req  :  A
 30082019  10:39:21.692634:  login.req.acc  :  A  MachineID: b'2145'
 30082019  10:39:28.810672:  login.succ  :  A  MachineID: b'2145'
 30082019  10:39:46.163368:  withdrawal.req  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 142242
 30082019  10:39:46.164370:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 142242
-30082019  10:40:08.275256:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
-30082019  10:40:28.672464:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+30082019  10:40:08.275256:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
+30082019  10:40:28.672464:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 30082019  10:40:28.675461:  cashreq  :  MachineID: b'2145'	OTP: hgqkeyvhot
-30082019  10:45:45.476876:  CONN.estb  :  Connection has been established | IP: 169.254.246.189 | MachineID  :  b'2145'
+30082019  10:45:45.476876:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 30082019  10:46:19.651804:  login.req  :  a
 30082019  10:46:25.635697:  login.req  :  A
-30082019  10:46:50.281305:  CONN.estb  :  Connection has been established | IP: 169.254.246.189 | MachineID  :  b'2145'
+30082019  10:46:50.281305:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 30082019  10:46:53.946585:  login.req  :  A
-09092019  10:17:24.549793:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+09092019  10:17:24.549793:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 09092019  10:17:27.831207:  login.req  :  A
 09092019  10:17:27.832206:  login.req.acc  :  A  MachineID: b'2145'
 09092019  10:17:29.413395:  login.succ  :  A  MachineID: b'2145'
@@ -209,19 +209,19 @@
 09092019  10:17:47.688635:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 90000
 09092019  10:17:55.118475:  deposit.req  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 90000
 09092019  10:17:55.120473:  deposit.succ  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 90000
-09092019  10:39:08.693697:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'4682'
-09092019  10:43:39.884859:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
-09092019  10:58:14.721063:  CONN.estb  :  Connection has been established | IP: 169.254.114.243 | MachineID  :  b'2145'
+09092019  10:39:08.693697:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'4682'
+09092019  10:43:39.884859:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
+09092019  10:58:14.721063:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 09092019  10:58:16.582415:  login.req  :  A
 09092019  10:58:16.583402:  login.req.acc  :  A  MachineID: b'2145'
 09092019  10:58:18.374478:  login.succ  :  A  MachineID: b'2145'
-19092019  19:58:41.438561:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  19:58:41.438561:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  19:58:44.706989:  login.req  :  A
 19092019  19:58:44.706989:  login.req.acc  :  A  MachineID: b'2145'
 19092019  19:58:46.975799:  login.succ  :  A  MachineID: b'2145'
 19092019  19:59:11.255848:  withdrawal.req  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1719
 19092019  19:59:11.271448:  withdrawal.succ  :  withdrawal 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1719
-19092019  19:59:54.862829:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  19:59:54.862829:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  19:59:58.923690:  login.req  :  A
 19092019  19:59:58.923690:  login.req.acc  :  A  MachineID: b'2145'
 19092019  20:00:00.794900:  login.succ  :  A  MachineID: b'2145'
@@ -235,11 +235,11 @@
 19092019  20:00:36.364390:  deposit.succ  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 62
 19092019  20:00:43.831437:  deposit.req  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1
 19092019  20:00:43.847037:  deposit.succ  :  depositreq 0000001 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1
-19092019  20:01:32.278518:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  20:01:32.278518:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  20:01:34.449345:  login.req  :  A
 19092019  20:01:34.449345:  login.req.acc  :  A  MachineID: b'2145'
 19092019  20:01:36.077757:  login.succ  :  A  MachineID: b'2145'
-19092019  20:03:51.054239:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  20:03:51.054239:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  20:03:53.926467:  login.req  :  A
 19092019  20:03:53.926467:  login.req.acc  :  A  MachineID: b'2145'
 19092019  20:04:03.434700:  login.succ  :  A  MachineID: b'2145'
@@ -249,190 +249,190 @@
 19092019  20:04:17.669386:  login.req  :  A
 19092019  20:04:17.669386:  login.req.acc  :  A  MachineID: b'2145'
 19092019  20:04:19.619196:  login.succ.fail  :  A  MachineID: b'2145'
-19092019  20:04:58.191757:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
-19092019  20:05:15.869379:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  20:04:58.191757:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
+19092019  20:05:15.869379:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  20:05:20.570418:  login.req  :  S
-19092019  21:02:19.266655:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:02:19.266655:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:02:23.931922:  login.req  :  A
 19092019  21:02:23.933922:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:02:42.991012:  login.succ  :  A  MachineID: b'2145'
-19092019  21:06:35.594316:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:06:35.594316:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:06:38.536485:  login.req  :  A
 19092019  21:06:38.538485:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:06:44.050800:  login.succ  :  A  MachineID: b'2145'
-19092019  21:17:26.272533:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:17:26.272533:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:17:28.311650:  login.req  :  A
 19092019  21:17:28.312650:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:17:30.394769:  login.succ  :  A  MachineID: b'2145'
-19092019  21:18:21.246677:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:18:21.246677:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:18:23.277794:  login.req  :  A
 19092019  21:18:23.279794:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:18:29.720162:  login.succ  :  A  MachineID: b'2145'
-19092019  21:19:55.944094:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:19:55.944094:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:19:59.244282:  login.req  :  A
 19092019  21:19:59.246283:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:20:04.420579:  login.succ.fail  :  A  MachineID: b'2145'
 19092019  21:20:09.928894:  login.req  :  A
 19092019  21:20:09.930894:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:20:13.065073:  login.succ  :  A  MachineID: b'2145'
-19092019  21:21:14.555590:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:21:14.555590:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:21:17.478757:  login.req  :  A
 19092019  21:21:17.480757:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:21:19.391867:  login.succ  :  A  MachineID: b'2145'
-19092019  21:22:03.484389:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:22:03.484389:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:22:05.674514:  login.req  :  A
 19092019  21:22:05.676514:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:22:07.791635:  login.succ  :  A  MachineID: b'2145'
-19092019  21:23:32.501480:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:23:32.501480:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:23:34.367587:  login.req  :  A
 19092019  21:23:34.368587:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:23:35.945677:  login.succ  :  A  MachineID: b'2145'
-19092019  21:25:15.751386:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:25:15.751386:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:25:18.308532:  login.req  :  A
 19092019  21:25:18.310532:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:25:20.414652:  login.succ  :  A  MachineID: b'2145'
-19092019  21:26:16.370853:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:26:16.370853:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:26:19.695043:  login.req  :  A
 19092019  21:26:19.697043:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:26:21.261133:  login.succ.fail  :  A  MachineID: b'2145'
 19092019  21:26:24.942343:  login.req  :  A
 19092019  21:26:24.943343:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:26:27.108467:  login.succ  :  A  MachineID: b'2145'
-19092019  21:27:32.459205:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:27:32.459205:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:27:35.136358:  login.req  :  A
 19092019  21:27:35.138358:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:27:37.218477:  login.succ  :  A  MachineID: b'2145'
-19092019  21:28:25.398233:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:28:25.398233:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:28:27.343344:  login.req  :  A
 19092019  21:28:27.345344:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:28:33.958722:  login.succ  :  A  MachineID: b'2145'
-19092019  21:30:05.942984:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:30:05.942984:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:30:07.761088:  login.req  :  A
 19092019  21:30:07.763088:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:30:09.086163:  login.succ  :  A  MachineID: b'2145'
-19092019  21:30:51.719602:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:30:51.719602:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:30:55.594824:  login.req  :  A
 19092019  21:30:55.596824:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:30:57.766948:  login.succ.fail  :  A  MachineID: b'2145'
 19092019  21:31:01.090138:  login.req  :  A
 19092019  21:31:01.092138:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:31:02.770234:  login.succ  :  A  MachineID: b'2145'
-19092019  21:31:54.760208:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:31:54.760208:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:31:56.471306:  login.req  :  A
 19092019  21:31:56.473306:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:32:00.635544:  login.succ  :  A  MachineID: b'2145'
-19092019  21:33:38.039115:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:33:38.039115:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:33:42.688381:  login.req  :  1234
 19092019  21:33:45.231526:  login.req  :  A
 19092019  21:33:45.234526:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:33:49.900793:  login.succ  :  A  MachineID: b'2145'
-19092019  21:34:26.354878:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:34:26.354878:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:34:28.926025:  login.req  :  A
 19092019  21:34:28.927025:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:34:30.735129:  login.succ  :  A  MachineID: b'2145'
-19092019  21:35:52.207789:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:35:52.207789:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:35:55.332968:  login.req  :  A
 19092019  21:35:55.334968:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:35:57.005063:  login.succ  :  A  MachineID: b'2145'
-19092019  21:39:14.604896:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:39:14.604896:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:39:17.234179:  login.req  :  A
 19092019  21:39:17.236180:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:39:19.514413:  login.succ  :  A  MachineID: b'2145'
-19092019  21:42:56.521869:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:42:56.521869:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:42:59.426940:  login.req  :  A
 19092019  21:42:59.427940:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:43:01.697979:  login.succ  :  A  MachineID: b'2145'
-19092019  21:43:29.825754:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  21:43:29.825754:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  21:43:32.006616:  login.req  :  A
 19092019  21:43:32.008616:  login.req.acc  :  A  MachineID: b'2145'
 19092019  21:43:34.111055:  login.succ  :  A  MachineID: b'2145'
-19092019  22:29:22.481416:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:29:22.481416:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:29:24.681542:  login.req  :  A
 19092019  22:29:24.683542:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:29:26.907669:  login.succ  :  A  MachineID: b'2145'
 19092019  22:29:38.430328:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:31:15.377671:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:31:15.377671:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:31:17.351783:  login.req  :  A
 19092019  22:31:17.353784:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:31:19.086883:  login.succ  :  A  MachineID: b'2145'
 19092019  22:31:25.977277:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:33:39.825933:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:33:39.825933:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:33:43.105120:  login.req  :  A
 19092019  22:33:43.111120:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:33:44.859220:  login.succ  :  A  MachineID: b'2145'
 19092019  22:33:50.014515:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
 19092019  22:33:54.570776:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:36:01.093013:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:36:01.093013:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:36:03.589155:  login.req  :  A
 19092019  22:36:03.591155:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:36:06.242307:  login.succ  :  A  MachineID: b'2145'
 19092019  22:36:11.443605:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 32
-19092019  22:39:03.942471:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:39:03.942471:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:39:09.499789:  login.req  :  A
 19092019  22:39:09.500789:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:39:12.294949:  login.succ  :  A  MachineID: b'2145'
 19092019  22:39:42.342667:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:42:04.263785:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:42:04.263785:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:42:12.611262:  login.req  :  A
 19092019  22:42:12.612262:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:42:16.166466:  login.succ  :  A  MachineID: b'2145'
 19092019  22:42:25.948025:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:44:22.961718:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:44:22.961718:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:44:27.355969:  login.req  :  A
 19092019  22:44:27.359969:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:44:30.297137:  login.succ  :  A  MachineID: b'2145'
 19092019  22:44:46.122043:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:48:10.170713:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:48:10.170713:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:48:21.965388:  login.req  :  A
 19092019  22:48:21.967388:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:48:31.527935:  login.succ  :  A  MachineID: b'2145'
 19092019  22:48:39.154371:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:49:53.327614:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:49:53.327614:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:49:58.125888:  login.req  :  A
 19092019  22:49:58.126888:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:50:00.779040:  login.succ  :  A  MachineID: b'2145'
 19092019  22:50:08.033455:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:53:44.931861:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:53:44.931861:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:53:48.224049:  login.req  :  A
 19092019  22:53:48.226049:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:53:50.530181:  login.succ  :  A  MachineID: b'2145'
 19092019  22:54:04.109958:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:57:14.915871:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:57:14.915871:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:57:17.788035:  login.req  :  A
 19092019  22:57:17.790035:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:57:19.145113:  login.succ  :  A  MachineID: b'2145'
 19092019  22:57:24.059394:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:58:02.587598:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:58:02.587598:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:58:05.088741:  login.req  :  A
 19092019  22:58:05.091741:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:58:07.288867:  login.succ  :  A  MachineID: b'2145'
 19092019  22:58:12.680175:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-19092019  22:59:41.545258:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:59:41.545258:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:59:43.827388:  login.req  :  A
 19092019  22:59:43.828388:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:59:45.506484:  login.succ  :  A  MachineID: b'2145'
-19092019  22:59:51.677837:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+19092019  22:59:51.677837:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 19092019  22:59:56.101090:  login.req  :  A
 19092019  22:59:56.104090:  login.req.acc  :  A  MachineID: b'2145'
 19092019  22:59:57.792187:  login.succ  :  A  MachineID: b'2145'
 19092019  23:00:02.755471:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-20092019  21:35:44.175475:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  21:35:44.175475:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  21:35:49.100915:  login.req  :  A
 20092019  21:35:49.116515:  login.req.acc  :  A  MachineID: b'2145'
 20092019  21:35:53.351735:  login.succ  :  A  MachineID: b'2145'
 20092019  21:36:06.844065:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
 20092019  21:36:16.364324:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-20092019  21:38:42.747673:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  21:38:42.747673:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  21:38:45.554104:  login.req  :  A
 20092019  21:38:45.554104:  login.req.acc  :  A  MachineID: b'2145'
 20092019  21:38:47.993118:  login.succ  :  A  MachineID: b'2145'
 20092019  21:38:53.775564:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-20092019  21:40:06.408508:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  21:40:06.408508:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  21:40:09.366138:  login.req  :  A
 20092019  21:40:09.366138:  login.req.acc  :  A  MachineID: b'2145'
 20092019  21:40:12.105359:  login.succ  :  A  MachineID: b'2145'
 20092019  21:40:16.210800:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-20092019  21:42:23.739792:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  21:42:23.739792:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  21:42:25.912020:  login.req  :  A
 20092019  21:42:25.912020:  login.req.acc  :  A  MachineID: b'2145'
 20092019  21:42:27.459233:  login.succ  :  A  MachineID: b'2145'
@@ -442,7 +442,7 @@
 20092019  21:42:44.468147:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
 20092019  21:43:53.653183:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
 20092019  21:43:53.668783:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 63
-20092019  21:46:04.032741:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  21:46:04.032741:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  21:46:06.343183:  login.req  :  A
 20092019  21:46:06.345183:  login.req.acc  :  A  MachineID: b'2145'
 20092019  21:46:08.528455:  login.succ  :  A  MachineID: b'2145'
@@ -452,7 +452,7 @@
 20092019  21:46:56.199395:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 74
 20092019  21:47:49.651846:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 74
 20092019  21:47:49.667446:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 74
-20092019  21:48:24.160911:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  21:48:24.160911:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  21:48:26.154568:  login.req  :  A
 20092019  21:48:26.155568:  login.req.acc  :  A  MachineID: b'2145'
 20092019  21:48:27.700200:  login.succ.fail  :  A  MachineID: b'2145'
@@ -463,11 +463,11 @@
 20092019  21:48:44.439137:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 152
 20092019  21:48:57.277800:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 12
 20092019  21:48:57.277800:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 12
-20092019  21:51:59.851924:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  21:51:59.851924:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  21:52:01.520549:  login.req  :  A
 20092019  21:52:01.520549:  login.req.acc  :  A  MachineID: b'2145'
 20092019  21:52:03.307763:  login.succ  :  A  MachineID: b'2145'
-20092019  21:53:09.626104:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  21:53:09.626104:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  21:53:11.891138:  login.req  :  A
 20092019  21:53:11.892138:  login.req.acc  :  A  MachineID: b'2145'
 20092019  21:53:13.445365:  login.succ.fail  :  A  MachineID: b'2145'
@@ -479,7 +479,7 @@
 20092019  21:53:42.496130:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 5000
 20092019  21:53:42.511730:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 5000
 20092019  21:54:00.417833:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 20000
-20092019  21:59:49.975908:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  21:59:49.975908:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  21:59:55.962551:  login.req  :  A
 20092019  21:59:55.962551:  login.req.acc  :  A  MachineID: b'2145'
 20092019  21:59:58.781574:  login.succ  :  A  MachineID: b'2145'
@@ -488,16 +488,16 @@
 20092019  22:00:12.623264:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1
 20092019  22:00:12.654464:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1
 20092019  22:00:17.706524:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 2
-20092019  22:10:06.090319:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:10:06.090319:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:10:10.182169:  login.req  :  A
-20092019  22:10:42.107150:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:10:42.107150:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:10:48.823434:  login.req  :  A
-20092019  22:11:19.459097:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:11:19.459097:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:11:22.938942:  login.req  :  A
 20092019  22:11:22.955542:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:11:25.381176:  login.succ  :  A  MachineID: b'2145'
 20092019  22:11:39.287245:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 2
-20092019  22:12:41.754139:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:12:41.754139:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:12:43.862768:  login.req  :  A
 20092019  22:12:43.864768:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:12:45.357793:  login.succ  :  A  MachineID: b'2145'
@@ -505,19 +505,19 @@
 20092019  22:12:48.506637:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 2
 20092019  22:12:59.741519:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 20000
 20092019  22:12:59.741519:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 20000
-20092019  22:16:23.812800:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:16:23.812800:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:16:26.771443:  login.req  :  a
-20092019  22:16:50.534576:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:16:50.534576:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:16:53.091856:  login.req  :  A
 20092019  22:16:53.107456:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:16:54.822269:  login.succ  :  A  MachineID: b'2145'
-20092019  22:17:23.737799:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:17:23.737799:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:17:25.843631:  login.req  :  A
 20092019  22:17:25.843631:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:17:27.194441:  login.succ  :  A  MachineID: b'2145'
 20092019  22:17:49.607171:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 80085
 20092019  22:17:49.607171:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 80085
-20092019  22:19:08.488860:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:19:08.488860:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:19:10.719703:  login.req  :  A
 20092019  22:19:10.719703:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:19:11.966912:  login.succ  :  A  MachineID: b'2145'
@@ -525,13 +525,13 @@
 20092019  22:19:19.051174:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.01
 20092019  22:20:04.208622:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.1
 20092019  22:20:04.208622:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.1
-20092019  22:20:30.536690:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:20:30.536690:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:20:32.612989:  login.req  :  A
 20092019  22:20:32.614989:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:20:35.224457:  login.succ  :  A  MachineID: b'2145'
 20092019  22:20:44.170718:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.5
 20092019  22:20:44.170718:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.5
-20092019  22:21:44.549225:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:21:44.549225:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:22:02.687101:  login.req  :  A
 20092019  22:22:02.702701:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:22:04.368128:  login.succ  :  A  MachineID: b'2145'
@@ -539,23 +539,23 @@
 20092019  22:22:10.383984:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.61
 20092019  22:22:17.052636:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.05
 20092019  22:22:17.052636:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.05
-20092019  22:24:18.280480:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:24:18.280480:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:24:22.899920:  login.req  :  A
 20092019  22:24:22.899920:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:24:25.828135:  login.succ  :  A  MachineID: b'2145'
-20092019  22:24:48.577942:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:24:48.577942:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:24:52.998195:  login.req  :  A
 20092019  22:24:52.998195:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:24:55.838809:  login.succ  :  A  MachineID: b'2145'
 20092019  22:26:07.834225:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1.0
 20092019  22:26:07.849825:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1.0
-20092019  22:33:25.191397:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:33:25.191397:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:33:33.259250:  login.req  :  A
 20092019  22:33:33.261250:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:33:34.777069:  login.succ  :  A  MachineID: b'2145'
 20092019  22:33:45.655573:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.05
 20092019  22:33:45.655573:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.05
-20092019  22:35:06.019691:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:35:06.019691:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:35:08.101116:  login.req  :  A
 20092019  22:35:08.101116:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:35:09.724528:  login.succ  :  A  MachineID: b'2145'
@@ -563,7 +563,7 @@
 20092019  22:35:18.256993:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.02
 20092019  22:35:34.041285:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.03
 20092019  22:35:34.056885:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.03
-20092019  22:44:00.474538:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:44:00.474538:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:44:02.430365:  login.req  :  A
 20092019  22:44:02.430365:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:44:03.834177:  login.succ  :  A  MachineID: b'2145'
@@ -573,16 +573,16 @@
 20092019  22:49:51.029855:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.05
 20092019  22:49:58.344803:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.34
 20092019  22:49:58.360403:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.34
-20092019  22:51:53.419786:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:51:53.419786:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:51:55.592215:  login.req  :  A
 20092019  22:51:55.594216:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:51:57.123630:  login.succ  :  A  MachineID: b'2145'
-20092019  22:52:33.605265:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:52:33.605265:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:52:35.272292:  login.req  :  A
 20092019  22:52:35.272292:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:52:36.696705:  login.succ  :  A  MachineID: b'2145'
 20092019  22:52:42.198549:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 5
-20092019  22:53:40.788356:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID  :  b'2145'
+20092019  22:53:40.788356:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID  :  b'2145'
 20092019  22:53:42.739187:  login.req  :  A
 20092019  22:53:42.739187:  login.req.acc  :  A  MachineID: b'2145'
 20092019  22:53:44.064810:  login.succ  :  A  MachineID: b'2145'
@@ -590,47 +590,47 @@
 20092019  22:53:47.639040:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 5
 20092019  22:53:51.288877:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 5
 20092019  22:53:51.304478:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 5
-21092019  23:50:02.114540:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
-23092019  21:41:47.554866:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
+21092019  23:50:02.114540:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
+23092019  21:41:47.554866:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 23092019  21:42:41.585283:  login.req  :  A
 23092019  21:42:41.600883:  login.req.acc  :  A   MachineID: b'2145'
 23092019  21:42:43.330895:  login.succ  :  A   MachineID: b'2145'
 23092019  21:43:24.934041:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 47
 23092019  21:43:24.934041:  withdrawal.succ  :   withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 47
-23092019  21:44:52.866513:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
+23092019  21:44:52.866513:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 23092019  21:44:55.885742:  login.req  :  A
 23092019  21:44:55.885742:  login.req.acc  :  A   MachineID: b'2145'
 23092019  21:44:59.871357:  login.succ  :  A   MachineID: b'2145'
-23092019  21:45:51.279087:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
+23092019  21:45:51.279087:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 23092019  21:45:55.722552:  login.req  :  A
 23092019  21:45:55.724552:  login.req.acc  :  A   MachineID: b'2145'
 23092019  21:45:57.540169:  login.succ  :  A   MachineID: b'2145'
 23092019  21:46:04.471624:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.05
-23092019  21:46:58.273883:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
+23092019  21:46:58.273883:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 23092019  21:47:01.635135:  login.req  :  A
 23092019  21:47:01.635135:  login.req.acc  :  A   MachineID: b'2145'
 23092019  21:47:03.177547:  login.succ  :  A   MachineID: b'2145'
 23092019  21:47:09.207201:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 0.05
-23092019  21:50:19.462001:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
+23092019  21:50:19.462001:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 23092019  21:50:25.126829:  login.req  :  A
 23092019  21:50:25.126829:  login.req.acc  :  A   MachineID: b'2145'
 23092019  21:50:27.706239:  login.succ  :  A   MachineID: b'2145'
-23092019  21:51:59.812913:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
+23092019  21:51:59.812913:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 23092019  21:52:03.103544:  login.req  :  A
 23092019  21:52:03.103544:  login.req.acc  :  A   MachineID: b'2145'
 23092019  21:52:04.740953:  login.succ  :  A   MachineID: b'2145'
 23092019  21:52:21.222764:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 26
 23092019  21:52:21.238364:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 26
-23092019  21:55:34.337532:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
+23092019  21:55:34.337532:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 23092019  21:55:43.133004:  login.req  :  a
 23092019  21:55:45.730630:  login.req  :  A
 23092019  21:55:45.730630:  login.req.acc  :  A   MachineID: b'2145'
 23092019  21:55:48.570641:  login.succ  :  A   MachineID: b'2145'
 23092019  21:55:57.851886:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 26
 23092019  21:55:57.867486:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 26
-23092019  21:58:01.235831:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'5487'
+23092019  21:58:01.235831:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'5487'
 23092019  21:58:01.251431:  cashreq  :  MachineID: b'5487'	OTP: zcytnfchxp
-23092019  22:02:44.429906:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'5487'
+23092019  22:02:44.429906:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'5487'
 23092019  22:02:49.285381:  login.req  :  A
 23092019  22:02:49.285381:  login.req.acc  :  A   MachineID: b'5487'
 23092019  22:02:52.200241:  login.succ  :  A   MachineID: b'5487'
@@ -638,16 +638,16 @@
 23092019  22:03:11.909099:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 34
 23092019  22:03:28.156495:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 4
 23092019  22:03:28.156495:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 4
-23092019  22:23:58.765443:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
-23092019  22:26:11.991627:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
+23092019  22:23:58.765443:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
+23092019  22:26:11.991627:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 23092019  22:26:15.630119:  login.req  :  A
 23092019  22:26:15.630119:  login.req.acc  :  A   MachineID: b'2145'
 23092019  22:26:24.524411:  login.succ  :  A   MachineID: b'2145'
-26092019  23:50:59.529811:  CONN.estb  :  Connection has been established | IP: 192.168.0.103 | MachineID : b'2145'
+26092019  23:50:59.529811:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 26092019  23:51:06.814472:  login.req  :  A
 26092019  23:51:06.830072:  login.req.acc  :  A   MachineID: b'2145'
 26092019  23:51:10.653303:  login.succ  :  A   MachineID: b'2145'
-31102019  20:08:49.502318:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  20:08:49.502318:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  20:08:53.926418:  login.req  :  A
 31102019  20:08:53.928418:  login.req.acc  :  A   MachineID: b'2145'
 31102019  20:09:07.341533:  login.succ  :  A   MachineID: b'2145'
@@ -657,19 +657,19 @@
 31102019  20:10:41.610212:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 100
 31102019  20:13:52.219002:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1
 31102019  20:13:52.219002:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1
-31102019  20:58:30.682821:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  20:58:30.682821:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  20:58:33.673862:  login.req  :  A
 31102019  20:58:33.683862:  login.req.acc  :  A   MachineID: b'2145'
 31102019  20:58:35.685882:  login.succ  :  A   MachineID: b'2145'
-31102019  20:59:09.850207:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  20:59:09.850207:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  20:59:12.316276:  login.req  :  A
 31102019  20:59:12.318277:  login.req.acc  :  A   MachineID: b'2145'
 31102019  20:59:14.089320:  login.succ  :  A   MachineID: b'2145'
-31102019  21:00:37.835392:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  21:00:37.835392:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  21:00:40.008462:  login.req  :  A
 31102019  21:00:40.008462:  login.req.acc  :  A   MachineID: b'2145'
 31102019  21:00:41.373487:  login.succ  :  A   MachineID: b'2145'
-31102019  21:02:40.012309:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  21:02:40.012309:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  21:02:42.242378:  login.req  :  A
 31102019  21:02:42.242378:  login.req.acc  :  A   MachineID: b'2145'
 31102019  21:02:44.646394:  login.succ.fail  :  A   MachineID: b'2145'
@@ -677,75 +677,75 @@
 31102019  21:02:53.176474:  login.req  :  A
 31102019  21:02:53.176474:  login.req.acc  :  A   MachineID: b'2145'
 31102019  21:02:55.305488:  login.succ  :  A   MachineID: b'2145'
-31102019  21:06:09.603759:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  21:06:09.603759:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  21:06:23.403933:  login.req  :  A
 31102019  21:06:23.403933:  login.req.acc  :  A   MachineID: b'2145'
 31102019  21:06:25.703953:  login.succ  :  A   MachineID: b'2145'
-31102019  21:40:02.736327:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  21:40:02.736327:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  21:40:05.303387:  login.req  :  A
 31102019  21:40:05.303387:  login.req.acc  :  A   MachineID: b'2145'
 31102019  21:40:06.555412:  login.succ  :  A   MachineID: b'2145'
-31102019  21:48:18.655803:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  21:48:18.655803:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  21:48:33.952892:  login.req  :  A
 31102019  21:48:33.962892:  login.req.acc  :  A   MachineID: b'2145'
 31102019  21:48:36.687919:  login.succ  :  A   MachineID: b'2145'
-31102019  22:01:05.893665:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:01:05.893665:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:01:07.945696:  login.req  :  A
 31102019  22:01:07.945696:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:01:10.246714:  login.succ  :  A   MachineID: b'2145'
-31102019  22:02:07.658729:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'4658'
+31102019  22:02:07.658729:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'4658'
 31102019  22:02:10.652792:  login.req  :  A
 31102019  22:02:10.653792:  login.req.acc  :  A   MachineID: b'4658'
 31102019  22:02:19.939859:  login.succ  :  A   MachineID: b'4658'
-31102019  22:02:36.605437:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'4658'
+31102019  22:02:36.605437:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'4658'
 31102019  22:02:40.036490:  login.req  :  A
 31102019  22:02:40.038490:  login.req.acc  :  A   MachineID: b'4658'
 31102019  22:02:42.999543:  login.succ  :  A   MachineID: b'4658'
-31102019  22:03:45.689626:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'4658'
+31102019  22:03:45.689626:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'4658'
 31102019  22:03:48.661685:  login.req  :  A
 31102019  22:03:48.663685:  login.req.acc  :  A   MachineID: b'4658'
 31102019  22:03:50.534740:  login.succ  :  A   MachineID: b'4658'
-31102019  22:04:17.684520:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'4658'
+31102019  22:04:17.684520:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'4658'
 31102019  22:04:19.613569:  login.req  :  A
 31102019  22:04:19.614569:  login.req.acc  :  A   MachineID: b'4658'
 31102019  22:04:21.112619:  login.succ  :  A   MachineID: b'4658'
-31102019  22:09:17.596410:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:09:17.596410:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:09:19.570443:  login.req  :  A
 31102019  22:09:19.570443:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:09:21.237456:  login.succ  :  A   MachineID: b'2145'
-31102019  22:11:21.507938:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:11:21.507938:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:11:24.204044:  login.req  :  A
 31102019  22:11:24.204044:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:11:25.443091:  login.succ  :  A   MachineID: b'2145'
-31102019  22:12:12.340778:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:12:12.340778:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:12:14.100835:  login.req  :  A
 31102019  22:12:14.100835:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:12:16.259862:  login.succ  :  A   MachineID: b'2145'
-31102019  22:14:11.244906:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:14:11.244906:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:14:13.122939:  login.req  :  A
 31102019  22:14:13.122939:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:14:15.067962:  login.succ  :  A   MachineID: b'2145'
-31102019  22:17:01.469564:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:17:01.469564:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:17:02.951605:  login.req  :  A
 31102019  22:17:02.952605:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:17:04.317622:  login.succ  :  A   MachineID: b'2145'
-31102019  22:18:12.935612:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:18:12.935612:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:18:14.644647:  login.req  :  A
 31102019  22:18:14.644647:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:18:16.694661:  login.succ  :  A   MachineID: b'2145'
-31102019  22:20:54.361864:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:20:54.361864:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:20:57.412901:  login.req  :  A
 31102019  22:20:57.412901:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:20:59.214918:  login.succ  :  A   MachineID: b'2145'
-31102019  22:21:21.875589:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:21:21.875589:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:21:23.614628:  login.req  :  A
 31102019  22:21:23.616628:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:21:24.983641:  login.succ  :  A   MachineID: b'2145'
-31102019  22:22:53.760770:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:22:53.760770:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:22:55.532797:  login.req  :  A
 31102019  22:22:55.532797:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:22:57.530811:  login.succ  :  A   MachineID: b'2145'
-31102019  22:26:05.130993:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'2145'
+31102019  22:26:05.130993:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 31102019  22:26:08.010039:  login.req  :  A
 31102019  22:26:08.010039:  login.req.acc  :  A   MachineID: b'2145'
 31102019  22:26:13.350076:  login.succ  :  A   MachineID: b'2145'
@@ -753,17 +753,17 @@
 31102019  22:26:26.922231:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1
 31102019  22:26:32.313280:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 2
 31102019  22:26:32.313280:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 2
-01112019  14:02:15.053755:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'5487'
-01112019  14:07:11.838739:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'3427'
+01112019  14:02:15.053755:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'5487'
+01112019  14:07:11.838739:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'3427'
 01112019  14:07:11.838739:  cashreq  :  MachineID: b'3427'	OTP: rwjdgimsrv
-01112019  14:08:03.418320:  CONN.estb  :  Connection has been established | IP: 192.168.0.101 | MachineID : b'3427'
+01112019  14:08:03.418320:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'3427'
 01112019  14:08:07.322732:  login.req  :  A
 01112019  14:08:07.322732:  login.req.acc  :  A   MachineID: b'3427'
 01112019  14:08:10.083937:  login.succ.fail  :  A   MachineID: b'3427'
 01112019  14:08:13.905944:  login.req  :  A
 01112019  14:08:13.905944:  login.req.acc  :  A   MachineID: b'3427'
 01112019  14:08:16.526748:  login.succ  :  A   MachineID: b'3427'
-13112019  06:46:17.872454:  CONN.estb  :  Connection has been established | IP: 192.168.0.102 | MachineID : b'2145'
+13112019  06:46:17.872454:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 13112019  06:46:26.463946:  login.req  :  A
 13112019  06:46:26.465946:  login.req.acc  :  A   MachineID: b'2145'
 13112019  06:46:29.875141:  login.succ  :  A   MachineID: b'2145'
@@ -771,7 +771,7 @@
 13112019  06:46:43.840940:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 80000
 13112019  06:46:55.910630:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 10
 13112019  06:46:55.913630:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 10
-13112019  06:49:29.628422:  CONN.estb  :  Connection has been established | IP: 192.168.0.102 | MachineID : b'2145'
+13112019  06:49:29.628422:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 13112019  06:49:32.280574:  login.req  :  A
 13112019  06:49:32.281574:  login.req.acc  :  A   MachineID: b'2145'
 13112019  06:49:34.205684:  login.succ  :  A   MachineID: b'2145'
@@ -779,7 +779,7 @@
 13112019  06:49:47.203427:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 700010
 13112019  06:49:56.494959:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 500000
 13112019  06:49:56.498959:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 500000
-13112019  06:50:35.094167:  CONN.estb  :  Connection has been established | IP: 192.168.0.102 | MachineID : b'2145'
+13112019  06:50:35.094167:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 13112019  06:50:37.248290:  login.req  :  A
 13112019  06:50:37.250290:  login.req.acc  :  A   MachineID: b'2145'
 13112019  06:50:39.693430:  login.succ  :  A   MachineID: b'2145'
@@ -787,7 +787,7 @@
 13112019  06:50:58.968532:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 1
 13112019  06:51:07.069996:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 2
 13112019  06:51:07.072996:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 2
-13112019  06:52:21.890275:  CONN.estb  :  Connection has been established | IP: 192.168.0.102 | MachineID : b'2145'
+13112019  06:52:21.890275:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 13112019  06:52:24.291412:  login.req  :  A
 13112019  06:52:24.294413:  login.req.acc  :  A   MachineID: b'2145'
 13112019  06:52:26.165520:  login.succ  :  A   MachineID: b'2145'
@@ -795,9 +795,10 @@
 13112019  06:52:33.040913:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 5001
 13112019  06:52:43.226495:  deposit.req  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 5002
 13112019  06:52:43.228496:  deposit.succ  :  depositreq 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 5002
-26012020  17:31:08.993020:  CONN.estb  :  Connection has been established | IP: 192.168.0.105 | MachineID : b'2145'
+26012020  17:31:08.993020:  CONN.estb  :  Connection has been established | IP: <IP address was removed> | MachineID : b'2145'
 26012020  17:31:12.101710:  login.req  :  A
 26012020  17:31:12.101710:  login.req.acc  :  A   MachineID: b'2145'
 26012020  17:31:13.554125:  login.succ  :  A   MachineID: b'2145'
 26012020  17:31:21.628378:  withdrawal.req  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 2
 26012020  17:31:21.628378:  withdrawal.succ  :  withdrawal 1 d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db 2
+
